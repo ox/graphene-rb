@@ -1,0 +1,3 @@
+types of requests:
+
+"join", "query", "inform"
